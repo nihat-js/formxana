@@ -1,0 +1,28 @@
+{
+  "name": "formxana",
+  "version": "1.0.0",
+  "description": "I love simple syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihat-js/formxana.git"
+  },
+  "keywords": [
+    "form",
+    "formik",
+    "simple",
+    "form",
+    "validation",
+    "test",
+    "check"
+  ],
+  "author": "nihat-js",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nihat-js/formxana/issues"
+  },
+  "homepage": "https://github.com/nihat-js/formxana#readme"
+}
